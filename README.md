@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Andrey Kapustin 👋
+**Junior Python Backend Developer** based in Minsk.
 
-<!--
-**Din0o104/Din0o104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student at BNTU focusing on building robust, well-architected REST APIs, clean database layers, and automated testing.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages & Core:** Python 3.12, OOP, Type Hinting, asyncio fundamentals
+- **Frameworks & API:** FastAPI, Pydantic v2, Starlette, Uvicorn, RESTful API
+- **Databases & Storage:** SQLite, PostgreSQL (schema design, transactions, pure SQL)
+- **Testing:** Pytest, fixtures, TestClient, in-memory isolation
+- **DevOps & Tools:** Docker, Docker Compose, Git, Linux/Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Project
+- **[Fleet Transport Tracker](https://github.com/Din0o104/car-transport-tracker)** — Telematics REST API built with FastAPI, 3-layer architecture, 100% pytest test coverage, and Docker Compose.
+
+### 📫 Connect with me
+- **Telegram:** [@kapqaa](https://t.me/kapqaa)
+- **Email:** Andrey.Kapustsin.dev@gmail.com
